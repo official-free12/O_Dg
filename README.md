@@ -1,0 +1,6 @@
+# OTC2024交易区块链钱包系统，挂买挂卖，OTC
+
+致用户拍前必须阅读的选项：<br>   前言：本店这款后端用的是java开发的程序，前端用的uniapp，数据库用的MYSQL，功能上高仿某钱包，欢迎积极对比与测试，如果拿不定主意强烈建议联系店家之后咨询二者进行定制服务，当然本款钱包在功能上集合了较多普通钱包没有的功能，具体差异若有兴趣可前往查看我们的演示。<br>    提供源码，无忧二次开发增加功能，任意使用二开无任何限制，对于有技术力量的个人或团队，拿源码去二开是不错的选择，对于没有技术力量的个人或者公司，我们将为您提供更好更专业的方案和服务，真诚期待与您的合作。<br>   本店承接APP小程序网站等软件开发，如有任意开发需求请联系我们！其次，本店今年主打区块链相关开发，现开发有自动区块数字量化交易机器人，区块钱包、区块交易所等等。本商品详情信息看以下附图。<br>  请注意，关于该钱包程序我们会提供整套完整的演示，仅保证交给你的源码与演示一致，购买之后如有二开需要可付费解决，如不能接受，请勿打扰！<br>APP安卓端+IOS端下载链接：http://example.com/appdownload/<br>H5网页端体验地址：example.com<br>体验账号：18378303617<br>体验密码：qq123456789<br>以下附后台演示地址：example.com<br>后台账号：admin<br>后台密码：admin123<br>以下附商家端后台演示地址：example.com<br>后台账号：18378303617<br>后台密码：qq123456789<br>还有本程序商家端API支付调用对接文档，注重商超支付功能调用的客户请详细阅读调用接口文档，如下：<br>本程序开发后续可能有更新，功能有变化的可能性，购买之前请咨询我确认好。<br>购买本源码，不包含二次修改/二次删改增开发服务。<br>免责声明：<br>本店所售软件源代码仅限于学习交流，<br>私自二次开发修改，转让，用于商业运营或非法用途，与我方无关。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/y6NVV" style="color: red;">https://mega-file.org/y6NVV</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
